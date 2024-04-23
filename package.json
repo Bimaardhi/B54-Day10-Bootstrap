@@ -1,0 +1,15 @@
+{
+  "name": "b54-day10-bootstrap",
+  "version": "1.0.0",
+  "description": "personal web dumbways.id",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bimaardhiansyah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
